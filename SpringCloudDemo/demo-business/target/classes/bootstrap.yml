@@ -1,8 +1,0 @@
-spring:
-  application:
-    name: ledger-service
-  cloud:
-    nacos:
-      server-addr: localhost:8848 # nacos地址
-      config:
-        file-extension: yaml # 文件后缀名
